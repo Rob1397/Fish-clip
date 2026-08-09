@@ -1,4 +1,4 @@
-# fish-clipboard
+# clip
 
 A lightweight Fish shell plugin to copy file paths, file contents, and command buffers to the clipboard on Linux (Wayland).
 
@@ -12,5 +12,5 @@ A lightweight Fish shell plugin to copy file paths, file contents, and command b
 
 ## Installation
 ```fish
-fisher install TU_USUARIO/fish-clipboard
+fisher install Rob1397/clip
 ```
