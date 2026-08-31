@@ -12,5 +12,5 @@ A lightweight Fish shell plugin to copy file paths, file contents, and command b
 
 ## Installation
 ```fish
-fisher install Rob1397/Fihs-clip
+fisher install Rob1397/Fish-clip
 ```
